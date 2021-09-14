@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/drawable/gradient_overlay.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/drawable/ic_recipes.xml" value="0.240625" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/drawable/ic_restaurant.xml" value="0.234375" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/drawable/ic_sad.xml" value="0.28703703703703703" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/activity_details.xml" value="0.14" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/favourites_row_layout.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/fragment_favourites.xml" value="0.2625" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/fragment_ingredients.xml" value="0.22" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/fragment_instructions.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/fragment_overview.xml" value="0.3390191897654584" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/fragment_recipes.xml" value="0.25" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/fragment_recipes_bottom_sheet.xml" value="0.39014373716632444" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/ingredients_row_layout.xml" value="0.33" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/placeholder_row_layout.xml" value="0.67" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/layout/recipes_row_layout.xml" value="0.35185185185185186" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/menu/details_menu.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/vellu/Documents/Ohjelmointi/KetoRecipes/app/src/main/res/menu/recipes_menu.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
